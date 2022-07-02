@@ -1,0 +1,2 @@
+Injection{injectID=i1, place1=12 ha noi, place2=null, student=Hoa Doan, vaccine=Vero Cell, date1=Mon Mar 08 00:00:00 ICT 2021, date2=null}
+Injection{injectID=i3, place1=hcm, place2=hcm, student=Van A, vaccine=SPUTNIK V, date1=Sat May 22 00:00:00 ICT 2021, date2=20/06/2021}
